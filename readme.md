@@ -21,4 +21,4 @@ Tujuan projek ini adalah membuat model prediksi hujan di Australia dengan menggu
 
 ## Note
 
-Projek ini dikerjakan di google collaboration, tetapi di repo ini telah terjadi penyesuaian agar tidak terjadi error saat dibuka di jupyter notebook.
+Projek ini dikerjakan di google collaboration, tetapi di repo ini telah terjadi penyesuaian agar tidak terjadi error saat dibuka di jupyter notebook. Di sini, kita menemukan kendala terbesar yaitu saat proses running model SVM, itu memakan waktu paling lama adalah 5 jam. Kemudian, saat diubah kolomnya yang awalnya datetime biasa menjadi day, month, dan year, waktu running menjadi 1 jam.
